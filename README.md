@@ -41,13 +41,13 @@
 📌Functions: scope, parameters, arguments, return<br>
 📌Built-in Functions<br>
 📌Commenting: single-line, multi-line, docstrings<br>
-
+<hr>
 ### Terminal/Command Prompt + Git/GitHub 💻
 Basic Bash Commands<br>
 Git Basics<br>
 GitHub Basics<br>
 Source Control<br>
-
+<hr>
 ### Advanced Python 🐍
 OOP<br>
 Classes<br>
@@ -69,7 +69,7 @@ Packages<br>
 Pip<br>
 Virtual Environments<br>
 Debugging<br>
-
+<hr>
 ### Popular Libraries 📙
 Tkinter<br>
 Requests<br>
@@ -85,15 +85,18 @@ Algorithms<br>
 Web Scrapping 🗄️<br><br
 Beautiful soup<br>
 Selenium<br>
-Scrapy****
-Project Ideas 🔥:****
+Scrapy<br>
+#### Project Ideas 🔥:
 
-Hacker News Scraper
-Dev.to Scrapper
-Amazon Price Tracker
-Jobs Portal Scraper
-COVID-19 Web Scraper
-Web Development 🌐
+Hacker News Scraper<br>
+Dev.to Scrapper<br>
+Amazon Price Tracker<br>
+Jobs Portal Scraper<br>
+COVID-19 Web Scraper<br>
+
+<hr>
+
+### Web Development 🌐
 Django
 Flask
 Zappa
@@ -105,7 +108,10 @@ Portfolio
 Blog Site
 Todo App
 Ecommerce website
-Scripting 📜
+
+<hr>
+
+### Scripting 📜
 DevOps: Docker, Kubernetes, Gradle, etc
 System Admin
 Project Ideas 🔥:
@@ -115,35 +121,42 @@ Create a Calculator
 Contact Book
 Directory Tree Generator
 Expense Tracker
-Ethical Hacking 🤐
-SQL injection
-Session hijacking
-Man in the Middle
-Networking
-IP Adress
-Exploitation
-Social Engineering
-Pen Testing
-Footprinting
-Firewall
+
+<hr>
+
+### Ethical Hacking 🤐
+SQL injection<br>
+Session hijacking<br>
+Man in the Middle<br>
+Networking<br>
+IP Adress<br>
+Exploitation<br>
+Social Engineering<br>
+Pen Testing<br>
+Footprinting<br>
+Firewall<br>
 
 Project Ideas 🔥:
 
-Hacking wireless networks
-Create a vulnerable site and hack it
-Password cracker
-Web Application Pen Testing
-Break A Caesar Cipher
-Machine Learning/Data Science 🤖
-Tensorflow
-PyTorch
-Keras
-Scikit-learn
-Numpy
-Pandas
-SciPy
-Matplotlib
-Seaborn
-Neural Networks
-Machine Learning Algorithms
-Data
+Hacking wireless networks<br>
+Create a vulnerable site and hack it<br>
+Password cracker<br>
+Web Application Pen Testing<br>
+Break A Caesar Cipher<br>
+
+<hr>
+
+### Machine Learning/Data Science 🤖
+
+Tensorflow<br>
+PyTorch<br>
+Keras<br>
+Scikit-learn<br>
+Numpy<br>
+Pandas<br>
+SciPy<br>
+Matplotlib<br>
+Seaborn<br>
+Neural Networks<br>
+Machine Learning Algorithms<br>
+Data<br>
