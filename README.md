@@ -149,7 +149,7 @@ Expense Tracker<br>
 🔐Man in the Middle<br>
 🔐Networking<br>
 🔐IP Adress<br>
-🔐🔐Exploitation<br>
+🔐Exploitation<br>
 🔐Social Engineering<br>
 🔐Pen Testing<br>
 🔐Footprinting<br>
