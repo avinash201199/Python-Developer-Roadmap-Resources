@@ -20,13 +20,13 @@
 ### Foundation 🐍
 Python 3 vs Python 2<br>
 Code Editors (choose one)<br>
-    Vim<br>
-    VSCode<br>
-    Sublime Text<br>
-    PyCharm<br>
-    Atom<br>
-    Juypter Notebook<br>
-    Google Colab<br>
+  &nbsp;  Vim<br>
+   &nbsp; VSCode<br>
+  &nbsp;  Sublime Text<br>
+  &nbsp;  PyCharm<br>
+  &nbsp;  Atom<br>
+  &nbsp;  Juypter Notebook<br>
+  &nbsp;  Google Colab<br>
 How Python Works<br>
 Python Interpreter<br>
 Running Python Code<br>
