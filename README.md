@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-
+<hr>
 1.Foundation 📚 <br>
 2.Terminal/Command Prompt + Git/GitHub 💻<br>
 3.Advanced Python 🐍<br>
