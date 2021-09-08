@@ -1,7 +1,8 @@
 # Python-Developer-Roadmap-Resources
 
-<br>
-<br>
+
+
+
 ## Table of Contents
 
 1.Foundation 📚 <br>
