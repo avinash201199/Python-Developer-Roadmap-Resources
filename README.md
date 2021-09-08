@@ -129,8 +129,8 @@ Ecommerce website
 <hr>
 
 ### <p id="8">Scripting 📜 </p>
-DevOps: Docker, Kubernetes, Gradle, etc <br>
-System Admin<br>
+📐DevOps: Docker, Kubernetes, Gradle, etc <br>
+📐System Admin<br>
 
 #### Project Ideas 🔥:
 
@@ -143,16 +143,17 @@ Expense Tracker<br>
 <hr>
 
 ### <p id="9">Ethical Hacking 🤐</p>
-SQL injection<br>
-Session hijacking<br>
-Man in the Middle<br>
-Networking<br>
-IP Adress<br>
-Exploitation<br>
-Social Engineering<br>
-Pen Testing<br>
-Footprinting<br>
-Firewall<br>
+
+🔐SQL injection<br>
+🔐Session hijacking<br>
+🔐Man in the Middle<br>
+🔐Networking<br>
+🔐IP Adress<br>
+🔐🔐Exploitation<br>
+🔐Social Engineering<br>
+🔐Pen Testing<br>
+🔐Footprinting<br>
+🔐Firewall<br>
 
 Project Ideas 🔥:
 
@@ -166,15 +167,15 @@ Break A Caesar Cipher<br>
 
 ### <p id="10">Machine Learning/Data Science 🤖</p>
 
-Tensorflow<br>
-PyTorch<br>
-Keras<br>
-Scikit-learn<br>
-Numpy<br>
-Pandas<br>
-SciPy<br>
-Matplotlib<br>
-Seaborn<br>
-Neural Networks<br>
-Machine Learning Algorithms<br>
-Data<br>
+🧲Tensorflow<br>
+🧲PyTorch<br>
+🧲Keras<br>
+🧲Scikit-learn<br>
+🧲Numpy<br>
+🧲Pandas<br>
+🧲SciPy<br>
+🧲Matplotlib<br>
+🧲Seaborn<br>
+🧲Neural Networks<br>
+🧲Machine Learning Algorithms<br>
+🧲Data<br>
