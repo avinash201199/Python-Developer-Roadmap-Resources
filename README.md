@@ -165,8 +165,7 @@ Break A Caesar Cipher<br>
 
 ### Machine Learning/Data Science 🤖
 
-Tensorflow<br>![image](https://user-images.githubusercontent.com/61057666/132491401-09c9c669-13c3-46c5-9050-44f9851eb530.png)
-
+Tensorflow<br>
 PyTorch<br>
 Keras<br>
 Scikit-learn<br>
