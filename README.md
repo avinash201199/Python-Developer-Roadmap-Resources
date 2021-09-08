@@ -22,11 +22,11 @@
 ### <p id="1">Foundation 🐍</p>
 📌Python 3 vs Python 2  https://www.youtube.com/watch?v=stJIdgMTmVk<br>
 📌Code Editors (choose one)<br>
-  &nbsp;&nbsp;&nbsp; 💡 Vim               &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=IiwGbcd8S7I<br>
+  &nbsp;&nbsp;&nbsp; 💡 Vim               &nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=IiwGbcd8S7I<br>
   &nbsp;&nbsp;&nbsp; 💡 VSCode            &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=VqCgcpAypFQ<br>
   &nbsp;&nbsp;&nbsp; 💡 Sublime Text      &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK<br>
   &nbsp;&nbsp;&nbsp; 💡 PyCharm           &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=6ngKWPsyi-k<br>
-  &nbsp;&nbsp;&nbsp; 💡 Atom              &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=Ei-G0fEOu9I<br>
+  &nbsp;&nbsp;&nbsp; 💡 Atom              &nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=Ei-G0fEOu9I<br>
   &nbsp;&nbsp;&nbsp; 💡 Juypter Notebook  &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=fiQTb7-rCPo<br>
   &nbsp;&nbsp;&nbsp; 💡 Google Colab      &nbsp;&nbsp;&nbsp;   https://www.youtube.com/watch?v=i-HnvsehuSw<br>
 📌How Python Works<br>
@@ -92,7 +92,7 @@
 ⚖️Time Complexity<br>
 ⚖️Space Complexity<br>
 ⚖️Big O Notation<br>
-⚖️Data Structures<br>
+⚖️Data Structures  https://www.analyticsvidhya.com/blog/2020/06/data-structures-python/<br>
 ⚖️Algorithms<br>
 
 <hr>
