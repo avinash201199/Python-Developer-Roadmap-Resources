@@ -111,31 +111,33 @@ COVID-19 Web Scraper<br>
 
 <hr>
 
-### Web Development 🌐
-Django
-Flask
-Zappa
-Dash
-Project Ideas 🔥:
+### Web Development 🌐 <br>
+Django<br>
+Flask<br>
+Zappa<br>
+Dash<br>
 
-Login System
-Portfolio
-Blog Site
-Todo App
+#### Project Ideas 🔥: 
+
+Login System<br>
+Portfolio<br>
+Blog Site<br>
+Todo App<br>
 Ecommerce website
 
 <hr>
 
-### Scripting 📜
-DevOps: Docker, Kubernetes, Gradle, etc
-System Admin
-Project Ideas 🔥:
+### Scripting 📜 
+DevOps: Docker, Kubernetes, Gradle, etc <br>
+System Admin<br>
 
-Automate the Boring Stuff
-Create a Calculator
-Contact Book
-Directory Tree Generator
-Expense Tracker
+#### Project Ideas 🔥:
+
+Automate the Boring Stuff<br>
+Create a Calculator<br>
+Contact Book<br>
+Directory Tree Generator<br>
+Expense Tracker<br>
 
 <hr>
 
