@@ -19,7 +19,7 @@
 
 <hr>
 
-### <p id="1">1Foundation 🐍</p>
+### <p id="1">1.Foundation 🐍</p>
 📌Python 3 vs Python 2  https://www.youtube.com/watch?v=stJIdgMTmVk<br>
 📌Code Editors (choose one)<br>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💡 Vim https://www.youtube.com/watch?v=IiwGbcd8S7I<br>
@@ -46,7 +46,7 @@
 
 <hr>
 
-### <p id="2">2Terminal/Command Prompt + Git/GitHub 💻</p> <br>
+### <p id="2">2.Terminal/Command Prompt + Git/GitHub 💻</p> <br>
 🛠️Basic Bash Commands https://cheatography.com/davechild/cheat-sheets/linux-command-line/<br>
 🛠️Git Basics https://www.youtube.com/watch?v=SWYqp7iY_Tc <br>
 🛠️GitHub Basics https://medium.com/mindorks/fundamentals-of-git-and-github-6d0ca62b0b1f<br>
@@ -54,7 +54,7 @@
  
 <hr>
 
-### <p id="3">3Advanced Python 🐍</p>
+### <p id="3">3.Advanced Python 🐍</p>
 ⚙️OOP<br>
 ⚙️Classes<br>
 ⚙️Dunder<br>
@@ -78,7 +78,7 @@
 
 <hr>
 
-### <p id="4">4Popular Libraries 📙</p>
+### <p id="4">4.Popular Libraries 📙</p>
 
 🔗Tkinter<br>
 🔗Requests<br>
@@ -88,7 +88,7 @@
 
 <hr>
 
-### <p id="5">5Computer Science 🤓</p> <br>
+### <p id="5">5.Computer Science 🤓</p> <br>
 ⚖️Time Complexity<br>
 ⚖️Space Complexity<br>
 ⚖️Big O Notation<br>
@@ -97,7 +97,7 @@
 
 <hr>
 
-### <p id="6">6Web Scrapping 🗄️</p> <br>
+### <p id="6">6.Web Scrapping 🗄️</p> <br>
 ✂️Beautiful soup<br>
 ✂️Selenium<br>
 ✂️Scrapy<br>
@@ -112,7 +112,7 @@ COVID-19 Web Scraper<br>
 
 <hr>
 
-### <p id="7">7Web Development 🌐</p> <br>
+### <p id="7">7.Web Development 🌐</p> <br>
 📂Django<br>
 📂Flask<br>
 📂Zappa<br>
@@ -128,7 +128,7 @@ Ecommerce website
 
 <hr>
 
-### <p id="8">8Scripting 📜 </p>
+### <p id="8">8.Scripting 📜 </p>
 📐DevOps: Docker, Kubernetes, Gradle, etc <br>
 📐System Admin<br>
 
@@ -142,7 +142,7 @@ Expense Tracker<br>
 
 <hr>
 
-### <p id="9">9Ethical Hacking 🤐</p>
+### <p id="9">9.Ethical Hacking 🤐</p>
 
 🔐SQL injection<br>
 🔐Session hijacking<br>
@@ -165,7 +165,7 @@ Break A Caesar Cipher<br>
 
 <hr>
 
-### <p id="10">10Machine Learning/Data Science 🤖</p>
+### <p id="10">10.Machine Learning/Data Science 🤖</p>
 
 🧲Tensorflow<br>
 🧲PyTorch<br>
