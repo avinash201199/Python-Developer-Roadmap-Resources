@@ -142,19 +142,19 @@ Expense Tracker<br>
 
 <hr>
 
-### <p id="9">9.Ethical Hacking 🤐</p> <br>
+### <p id="9">9.Ethical Hacking 🤐</p> 
 
-[Complete Python Hacking Tutorial!](https://www.youtube.com/watch?v=qattlDUVNj8) <br>
-🔐SQL injection<br>
-🔐Session hijacking<br>
-🔐Man in the Middle<br>
-🔐Networking<br>
-🔐IP Adress<br>
-🔐Exploitation<br>
-🔐Social Engineering<br>
-🔐Pen Testing<br>
-🔐Footprinting<br>
-🔐Firewall<br>
+[Complete Python Hacking Tutorial!](https://www.youtube.com/watch?v=qattlDUVNj8) <br><br>
+🔐SQL injection  https://www.youtube.com/watch?v=3Axp3VDnf0I<br>
+🔐Session hijacking https://www.youtube.com/watch?v=fxrCJNQ96Kg<br>
+🔐Man in the Middle https://www.youtube.com/watch?v=-enHfpHMBo4<br>
+🔐Networking https://www.youtube.com/watch?v=QKfk7YFILws&t=254s<br>
+🔐IP Adress https://www.youtube.com/watch?v=8npT9AALbrI<br>
+🔐Exploitation https://www.youtube.com/watch?v=IJ4M2DDMjgY<br>
+🔐Social Engineering https://www.youtube.com/watch?v=h9yEw2rYJ4k<br>
+🔐Pen Testing https://www.youtube.com/watch?v=3Kq1MIfTWCE<br>
+🔐Footprinting https://www.youtube.com/watch?v=29X0_3aJ8pE<br>
+🔐Firewall https://www.youtube.com/watch?v=aUPoA3MSajU<br>
 
 Project Ideas 🔥:
 
