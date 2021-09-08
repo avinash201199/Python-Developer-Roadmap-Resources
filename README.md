@@ -7,15 +7,15 @@
 <hr>
 
 [1.Foundation 📚](#1) <br>
-2.Terminal/Command Prompt + Git/GitHub 💻<br>
-3.Advanced Python 🐍<br>
-4.Popular Libraries 📙<br>
-5.Computer Science 💻<br>
-6.Web Scrapping 🗄️<br>
-7.Web Development 🌐<br>
-8.Scripting 📜<br>
-9.Ethical Hacking 👽<br>
-10.Machine Learning/Data Science 🤖<br>
+[2.Terminal/Command Prompt + Git/GitHub 💻](#2) <br>
+[3.Advanced Python 🐍](#3) <br>
+[4.Popular Libraries 📙](#4) <br>
+[5.Computer Science 💻](#5)<br>
+[6.Web Scrapping 🗄️](#6) <br>
+[7.Web Development 🌐](#7) <br>
+[8.Scripting 📜](#8) <br>
+[9.Ethical Hacking 👽](#9) <br>
+[10.Machine Learning/Data Science 🤖](#10) <br>
 
 <hr>
 
@@ -46,7 +46,7 @@
 
 <hr>
 
-### Terminal/Command Prompt + Git/GitHub 💻 <br>
+### <p id="2">Terminal/Command Prompt + Git/GitHub 💻</p> <br>
 Basic Bash Commands<br>
 Git Basics<br>
 GitHub Basics<br>
@@ -54,7 +54,7 @@ Source Control<br>
 
 <hr>
 
-### Advanced Python 🐍
+### <p id="3:>Advanced Python 🐍</p>
 OOP<br>
 Classes<br>
 Dunder<br>
@@ -78,7 +78,7 @@ Debugging<br>
 
 <hr>
 
-### Popular Libraries 📙
+### <p id="4">Popular Libraries 📙</p>
 
 Tkinter<br>
 Requests<br>
@@ -88,7 +88,7 @@ Pygame<br>
 
 <hr>
 
-### Computer Science 🤓 <br>
+### <p id="5">Computer Science 🤓</p> <br>
 Time Complexity<br>
 Space Complexity<br>
 Big O Notation<br>
@@ -97,7 +97,7 @@ Algorithms<br>
 
 <hr>
 
-### Web Scrapping 🗄️ <br>
+### <p id="6">Web Scrapping 🗄️</p> <br>
 Beautiful soup<br>
 Selenium<br>
 Scrapy<br>
@@ -112,7 +112,7 @@ COVID-19 Web Scraper<br>
 
 <hr>
 
-### Web Development 🌐 <br>
+### <p id="7">Web Development 🌐</p> <br>
 Django<br>
 Flask<br>
 Zappa<br>
@@ -128,7 +128,7 @@ Ecommerce website
 
 <hr>
 
-### Scripting 📜 
+### <p id="8">Scripting 📜 </p>
 DevOps: Docker, Kubernetes, Gradle, etc <br>
 System Admin<br>
 
@@ -142,7 +142,7 @@ Expense Tracker<br>
 
 <hr>
 
-### Ethical Hacking 🤐
+### <p id="9">Ethical Hacking 🤐</p>
 SQL injection<br>
 Session hijacking<br>
 Man in the Middle<br>
@@ -164,7 +164,7 @@ Break A Caesar Cipher<br>
 
 <hr>
 
-### Machine Learning/Data Science 🤖
+### <p id="10">Machine Learning/Data Science 🤖</p>
 
 Tensorflow<br>
 PyTorch<br>
