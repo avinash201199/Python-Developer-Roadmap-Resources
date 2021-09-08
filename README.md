@@ -22,7 +22,7 @@
 ### <p id="1">Foundation 🐍</p>
 📌Python 3 vs Python 2  https://www.youtube.com/watch?v=stJIdgMTmVk<br>
 📌Code Editors (choose one)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Vim https://www.youtube.com/watch?v=IiwGbcd8S7I<br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp ;&nbsp; 💡 Vim https://www.youtube.com/watch?v=IiwGbcd8S7I<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 VSCode  https://www.youtube.com/watch?v=VqCgcpAypFQ<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 Sublime Text https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 PyCharm  https://www.youtube.com/watch?v=6ngKWPsyi-k<br>
