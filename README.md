@@ -142,8 +142,9 @@ Expense Tracker<br>
 
 <hr>
 
-### <p id="9">9.Ethical Hacking 🤐</p>
+### <p id="9">9.Ethical Hacking 🤐</p> <br>
 
+[Complete Python Hacking Tutorial!](https://www.youtube.com/watch?v=qattlDUVNj8) <br>
 🔐SQL injection<br>
 🔐Session hijacking<br>
 🔐Man in the Middle<br>
