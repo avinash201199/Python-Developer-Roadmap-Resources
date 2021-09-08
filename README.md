@@ -20,15 +20,15 @@
 <hr>
 
 ### <p id="1">Foundation 🐍</p>
-📌Python 3 vs Python 2<br>
+📌Python 3 vs Python 2  https://www.youtube.com/watch?v=stJIdgMTmVk<br>
 📌Code Editors (choose one)<br>
-  &nbsp;&nbsp;&nbsp; 💡 Vim<br>
-  &nbsp;&nbsp;&nbsp; 💡 VSCode<br>
-  &nbsp;&nbsp;&nbsp; 💡 Sublime Text<br>
-  &nbsp;&nbsp;&nbsp; 💡 PyCharm<br>
-  &nbsp;&nbsp;&nbsp; 💡 Atom<br>
-  &nbsp;&nbsp;&nbsp; 💡 Juypter Notebook<br>
-  &nbsp;&nbsp;&nbsp; 💡 Google Colab<br>
+  &nbsp;&nbsp;&nbsp; 💡 Vim https://www.youtube.com/watch?v=IiwGbcd8S7I<br>
+  &nbsp;&nbsp;&nbsp; 💡 VSCode https://www.youtube.com/watch?v=VqCgcpAypFQ<br>
+  &nbsp;&nbsp;&nbsp; 💡 Sublime Text https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK<br>
+  &nbsp;&nbsp;&nbsp; 💡 PyCharm https://www.youtube.com/watch?v=6ngKWPsyi-k<br>
+  &nbsp;&nbsp;&nbsp; 💡 Atom https://www.youtube.com/watch?v=Ei-G0fEOu9I<br>
+  &nbsp;&nbsp;&nbsp; 💡 Juypter Notebook https://www.youtube.com/watch?v=fiQTb7-rCPo<br>
+  &nbsp;&nbsp;&nbsp; 💡 Google Colab https://www.youtube.com/watch?v=i-HnvsehuSw<br>
 📌How Python Works<br>
 📌Python Interpreter<br>
 📌Running Python Code<br>
