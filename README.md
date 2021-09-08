@@ -1,4 +1,4 @@
-# Python-Developer-Roadmap-Resources <br><br><br>
+# Python-Developer-Roadmap-Resources <br><br>
 
 
 
