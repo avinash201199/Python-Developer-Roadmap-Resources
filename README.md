@@ -5,7 +5,7 @@
 
 ## Table of Contents
 <hr>
-1.Foundation 📚 <br>
+<h1 id="1">1.Foundation 📚 </h1><br>
 2.Terminal/Command Prompt + Git/GitHub 💻<br>
 3.Advanced Python 🐍<br>
 4.Popular Libraries 📙<br>
@@ -18,7 +18,7 @@
 
 <hr>
 
-### Foundation 🐍
+### [Foundation 🐍](# 1)
 📌Python 3 vs Python 2<br>
 📌Code Editors (choose one)<br>
   &nbsp;&nbsp; 💡 Vim<br>
