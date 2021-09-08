@@ -17,36 +17,37 @@
 10.Machine Learning/Data Science 🤖<br>
 <hr>
 
-Foundation 🐍
-Python 3 vs Python 2
-Code Editors (choose one)
-Vim
-VSCode
-Sublime Text
-PyCharm
-Atom
-Juypter Notebook
-Google Colab
-How Python Works
-Python Interpreter
-Running Python Code
-Data Types and their Operations and Use
-Numbers, Operators, Operator Precedence
-Variables
-Type Conversion
-Indentation
-Logical Operators
-Conditionals - If, Else, Else if, Truthy, Falsey
-Loops: for, while, loop control statements (break, continue, etc)
-Functions: scope, parameters, arguments, return
-Built-in Functions
-Commenting: single-line, multi-line, docstrings
-Terminal/Command Prompt + Git/GitHub 💻
+### Foundation 🐍
+Python 3 vs Python 2<br>
+Code Editors (choose one)<br>
+    Vim<br>
+    VSCode<br>
+    Sublime Text<br>
+    PyCharm<br>
+    Atom<br>
+    Juypter Notebook<br>
+    Google Colab<br>
+How Python Works<br>
+Python Interpreter<br>
+Running Python Code<br>
+Data Types and their Operations and Use<br>
+Numbers, Operators, Operator Precedence<br>
+Variables<br>
+Type Conversion<br>
+Indentation<br>
+Logical Operators<br>
+Conditionals - If, Else, Else if, Truthy, Falsey<br>
+Loops: for, while, loop control statements (break, continue, etc)<br>
+Functions: scope, parameters, arguments, return<br>
+Built-in Functions<br>
+Commenting: single-line, multi-line, docstrings<br>
+### Terminal/Command Prompt + Git/GitHub 💻
 Basic Bash Commands
 Git Basics
 GitHub Basics
 Source Control
-Advanced Python 🐍
+
+### Advanced Python 🐍
 OOP
 Classes
 Dunder
