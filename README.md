@@ -18,8 +18,8 @@
 <hr>
 
 ### Foundation 🐍
-Python 3 vs Python 2<br>
-Code Editors (choose one)<br>
+📌Python 3 vs Python 2<br>
+📌Code Editors (choose one)<br>
   &nbsp;&nbsp; 💡 Vim<br>
   &nbsp;&nbsp; 💡 VSCode<br>
   &nbsp;&nbsp; 💡 Sublime Text<br>
@@ -27,64 +27,66 @@ Code Editors (choose one)<br>
   &nbsp;&nbsp; 💡 Atom<br>
   &nbsp;&nbsp; 💡 Juypter Notebook<br>
   &nbsp;&nbsp; 💡 Google Colab<br>
-How Python Works<br>
-Python Interpreter<br>
-Running Python Code<br>
-Data Types and their Operations and Use<br>
-Numbers, Operators, Operator Precedence<br>
-Variables<br>
-Type Conversion<br>
-Indentation<br>
-Logical Operators<br>
-Conditionals - If, Else, Else if, Truthy, Falsey<br>
-Loops: for, while, loop control statements (break, continue, etc)<br>
-Functions: scope, parameters, arguments, return<br>
-Built-in Functions<br>
-Commenting: single-line, multi-line, docstrings<br>
+📌How Python Works<br>
+📌Python Interpreter<br>
+📌Running Python Code<br>
+📌Data Types and their Operations and Use<br>
+📌Numbers, Operators, Operator Precedence<br>
+📌Variables<br>
+📌Type Conversion<br>
+📌Indentation<br>
+📌Logical Operators<br>
+📌Conditionals - If, Else, Else if, Truthy, Falsey<br>
+📌Loops: for, while, loop control statements (break, continue, etc)<br>
+📌Functions: scope, parameters, arguments, return<br>
+📌Built-in Functions<br>
+📌Commenting: single-line, multi-line, docstrings<br>
+
 ### Terminal/Command Prompt + Git/GitHub 💻
-Basic Bash Commands
-Git Basics
-GitHub Basics
-Source Control
+Basic Bash Commands<br>
+Git Basics<br>
+GitHub Basics<br>
+Source Control<br>
 
 ### Advanced Python 🐍
-OOP
-Classes
-Dunder
-Methods
-Inheritance
-Decorators
-Functional Programming
-Lambda Functions
-Map, filter, zip, reduce
-Errors
-Error Handling: try, except
-File I/O
-Regex
-Testing, unittest
-Import
-Modules
-Packages
-Pip
-Virtual Environments
-Debugging
-Popular Libraries 📙
-Tkinter
-Requests
-Pillow
-PyQT
-Pygame
-Computer Science 🤓
-Time Complexity
-Space Complexity
-Big O Notation
-Data Structures
-Algorithms
-Web Scrapping 🗄️
-Beautiful soup
-Selenium
-Scrapy
-Project Ideas 🔥:
+OOP<br>
+Classes<br>
+Dunder<br>
+Methods<br>
+Inheritance<br>
+Decorators<br>
+Functional Programming<br>
+Lambda Functions<br>
+Map, filter, zip, reduce<br>
+Errors<br>
+Error Handling: try, except<br>
+File I/O<br>
+Regex<br>
+Testing, unittest<br>
+Import<br>
+Modules<br>
+Packages<br>
+Pip<br>
+Virtual Environments<br>
+Debugging<br>
+
+### Popular Libraries 📙
+Tkinter<br>
+Requests<br>
+Pillow<br>
+PyQT<br>
+Pygame<br>
+Computer Science 🤓<br>
+Time Complexity<br>
+Space Complexity<br>
+Big O Notation<br>
+Data Structures<br>
+Algorithms<br>
+Web Scrapping 🗄️<br><br
+Beautiful soup<br>
+Selenium<br>
+Scrapy****
+Project Ideas 🔥:****
 
 Hacker News Scraper
 Dev.to Scrapper
@@ -124,6 +126,7 @@ Social Engineering
 Pen Testing
 Footprinting
 Firewall
+
 Project Ideas 🔥:
 
 Hacking wireless networks
