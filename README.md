@@ -15,6 +15,7 @@
 8.Scripting 📜<br>
 9.Ethical Hacking 👽<br>
 10.Machine Learning/Data Science 🤖<br>
+
 <hr>
 
 ### Foundation 🐍
@@ -41,13 +42,17 @@
 📌Functions: scope, parameters, arguments, return<br>
 📌Built-in Functions<br>
 📌Commenting: single-line, multi-line, docstrings<br>
+
 <hr>
-### Terminal/Command Prompt + Git/GitHub 💻
+
+### Terminal/Command Prompt + Git/GitHub 💻 <br>
 Basic Bash Commands<br>
 Git Basics<br>
 GitHub Basics<br>
 Source Control<br>
+
 <hr>
+
 ### Advanced Python 🐍
 OOP<br>
 Classes<br>
@@ -69,8 +74,11 @@ Packages<br>
 Pip<br>
 Virtual Environments<br>
 Debugging<br>
+
 <hr>
+
 ### Popular Libraries 📙
+
 Tkinter<br>
 Requests<br>
 Pillow<br>
@@ -86,6 +94,7 @@ Web Scrapping 🗄️<br><br
 Beautiful soup<br>
 Selenium<br>
 Scrapy<br>
+
 #### Project Ideas 🔥:
 
 Hacker News Scraper<br>
