@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-1.Foundation :mechanic: <br>
+1.Foundation 📚 <br>
 2.Terminal/Command Prompt + Git/GitHub 💻<br>
 3.Advanced Python 🐍<br>
 4.Popular Libraries 📙<br>
