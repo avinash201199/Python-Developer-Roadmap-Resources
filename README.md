@@ -47,11 +47,11 @@
 <hr>
 
 ### <p id="2">Terminal/Command Prompt + Git/GitHub 💻</p> <br>
-🛠️Basic Bash Commands<br>
-🛠️Git Basics<br>
-🛠️GitHub Basics<br>
+🛠️Basic Bash Commands https://cheatography.com/davechild/cheat-sheets/linux-command-line/<br>
+🛠️Git Basics https://www.youtube.com/watch?v=SWYqp7iY_Tc <br>
+🛠️GitHub Basics https://medium.com/mindorks/fundamentals-of-git-and-github-6d0ca62b0b1f<br>
 🛠️Source Control<br>
-
+ 
 <hr>
 
 ### <p id="3">Advanced Python 🐍</p>
