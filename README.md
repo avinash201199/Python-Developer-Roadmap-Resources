@@ -22,13 +22,13 @@
 ### <p id="1">Foundation 🐍</p>
 📌Python 3 vs Python 2<br>
 📌Code Editors (choose one)<br>
-  &nbsp;&nbsp; 💡 Vim<br>
-  &nbsp;&nbsp; 💡 VSCode<br>
-  &nbsp;&nbsp; 💡 Sublime Text<br>
-  &nbsp;&nbsp; 💡 PyCharm<br>
-  &nbsp;&nbsp; 💡 Atom<br>
-  &nbsp;&nbsp; 💡 Juypter Notebook<br>
-  &nbsp;&nbsp; 💡 Google Colab<br>
+  &nbsp;&nbsp;&nbsp; 💡 Vim<br>
+  &nbsp;&nbsp;&nbsp; 💡 VSCode<br>
+  &nbsp;&nbsp;&nbsp; 💡 Sublime Text<br>
+  &nbsp;&nbsp;&nbsp; 💡 PyCharm<br>
+  &nbsp;&nbsp;&nbsp; 💡 Atom<br>
+  &nbsp;&nbsp;&nbsp; 💡 Juypter Notebook<br>
+  &nbsp;&nbsp;&nbsp; 💡 Google Colab<br>
 📌How Python Works<br>
 📌Python Interpreter<br>
 📌Running Python Code<br>
@@ -47,60 +47,60 @@
 <hr>
 
 ### <p id="2">Terminal/Command Prompt + Git/GitHub 💻</p> <br>
-Basic Bash Commands<br>
-Git Basics<br>
-GitHub Basics<br>
-Source Control<br>
+🛠️Basic Bash Commands<br>
+🛠️Git Basics<br>
+🛠️GitHub Basics<br>
+🛠️Source Control<br>
 
 <hr>
 
 ### <p id="3">Advanced Python 🐍</p>
-OOP<br>
-Classes<br>
-Dunder<br>
-Methods<br>
-Inheritance<br>
-Decorators<br>
-Functional Programming<br>
-Lambda Functions<br>
-Map, filter, zip, reduce<br>
-Errors<br>
-Error Handling: try, except<br>
-File I/O<br>
-Regex<br>
-Testing, unittest<br>
-Import<br>
-Modules<br>
-Packages<br>
-Pip<br>
-Virtual Environments<br>
-Debugging<br>
+⚙️OOP<br>
+⚙️Classes<br>
+⚙️Dunder<br>
+⚙️Methods<br>
+⚙️Inheritance<br>
+⚙️Decorators<br>
+⚙️Functional Programming<br>
+⚙️Lambda Functions<br>
+⚙️Map, filter, zip, reduce<br>
+⚙️Errors<br>
+⚙️Error Handling: try, except<br>
+⚙️File I/O<br>
+⚙️Regex<br>
+⚙️Testing, unittest<br>
+⚙️Import<br>
+⚙️Modules<br>
+⚙️Packages<br>
+⚙️Pip<br>
+⚙️Virtual Environments<br>
+⚙️Debugging<br>
 
 <hr>
 
 ### <p id="4">Popular Libraries 📙</p>
 
-Tkinter<br>
-Requests<br>
-Pillow<br>
-PyQT<br>
-Pygame<br>
+🔗Tkinter<br>
+🔗Requests<br>
+🔗Pillow<br>
+🔗PyQT<br>
+🔗Pygame<br>
 
 <hr>
 
 ### <p id="5">Computer Science 🤓</p> <br>
-Time Complexity<br>
-Space Complexity<br>
-Big O Notation<br>
-Data Structures<br>
-Algorithms<br>
+⚖️Time Complexity<br>
+⚖️Space Complexity<br>
+⚖️Big O Notation<br>
+⚖️Data Structures<br>
+⚖️Algorithms<br>
 
 <hr>
 
 ### <p id="6">Web Scrapping 🗄️</p> <br>
-Beautiful soup<br>
-Selenium<br>
-Scrapy<br>
+✂️Beautiful soup<br>
+✂️Selenium<br>
+✂️Scrapy<br>
 
 #### Project Ideas 🔥:
 
@@ -113,10 +113,10 @@ COVID-19 Web Scraper<br>
 <hr>
 
 ### <p id="7">Web Development 🌐</p> <br>
-Django<br>
-Flask<br>
-Zappa<br>
-Dash<br>
+📂Django<br>
+📂Flask<br>
+📂Zappa<br>
+📂Dash<br>
 
 #### Project Ideas 🔥: 
 
