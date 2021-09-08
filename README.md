@@ -84,13 +84,19 @@ Requests<br>
 Pillow<br>
 PyQT<br>
 Pygame<br>
-Computer Science 🤓<br>
+
+<hr>
+
+### Computer Science 🤓 <br>
 Time Complexity<br>
 Space Complexity<br>
 Big O Notation<br>
 Data Structures<br>
 Algorithms<br>
-Web Scrapping 🗄️<br><br
+
+<hr>
+
+### Web Scrapping 🗄️ <br>
 Beautiful soup<br>
 Selenium<br>
 Scrapy<br>
