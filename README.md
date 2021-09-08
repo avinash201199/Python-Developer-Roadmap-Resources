@@ -100,7 +100,7 @@
 ### <p id="6">6.Web Scrapping 🗄️</p> <br>
 ✂️Beautiful soup  https://www.youtube.com/watch?v=XVv6mJpFOb0<br>
 ✂️Selenium  https://www.youtube.com/watch?v=5FUdrBq-WFo<br>
-✂️Scrapy  https://www.youtube.com/watch?v=5o9lucMaQLc https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t<br>
+✂️Scrapy  https://www.youtube.com/watch?v=5o9lucMaQLc <br> https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t<br>
 
 #### Project Ideas 🔥:
 
